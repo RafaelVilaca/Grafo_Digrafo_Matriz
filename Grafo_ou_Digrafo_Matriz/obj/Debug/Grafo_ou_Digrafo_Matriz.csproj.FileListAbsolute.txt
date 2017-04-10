@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Grafo_ou_Digrafo_Matriz\Grafo_ou_Digrafo_Matriz\bin\Debug\Grafo_ou_Digrafo_Matriz.exe.config
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Grafo_ou_Digrafo_Matriz\Grafo_ou_Digrafo_Matriz\bin\Debug\Grafo_ou_Digrafo_Matriz.exe
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Grafo_ou_Digrafo_Matriz\Grafo_ou_Digrafo_Matriz\bin\Debug\Grafo_ou_Digrafo_Matriz.pdb
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Grafo_ou_Digrafo_Matriz\Grafo_ou_Digrafo_Matriz\obj\Debug\Grafo_ou_Digrafo_Matriz.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Grafo_ou_Digrafo_Matriz\Grafo_ou_Digrafo_Matriz\obj\Debug\Grafo_ou_Digrafo_Matriz.exe
+C:\Users\usuario\Desktop\Cursos\Eng - Projetinhos\Grafo_ou_Digrafo_Matriz\Grafo_ou_Digrafo_Matriz\obj\Debug\Grafo_ou_Digrafo_Matriz.pdb
